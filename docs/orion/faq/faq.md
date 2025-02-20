@@ -102,7 +102,21 @@ Web ads have steadily eroded the online experience with their layout crowding, p
 <a name="cookies"></a>
 ## How do I clear cookies?
 
-Go to _Settings->Orion->Manage_ to search and clear individual site cookies OR _Orion->Reset_ to reset ALL cookies, history, bookmarks, etc.
+### MacOS
+
+__To search and clear individual site cookies:__
+Go to _Orion->Settings->Privacy->Manage Website Data..._ 
+
+__To reset ALL cookies, history, bookmarks, website data, etc:__
+Go to _Orion->Reset Orion..._ and select a time range what you would like to permanently remove and reset.
+
+### iOS/iPhone
+
+__To reset cookies, history, website data:__
+Go to _Three dots menu->Settings->Privacy->Clear History and Website Data_ and select a time range and the what you would like to permanently remove and reset
+
+__To reset and clear ALL open tabs, cookies, history, website data:__
+Go to _Three dots menu->Close Tabs & Clear Data_ to clear all open tabs, cookies, history, website data.
 
 <a name="extensions"></a>
 ## How does Orion support extensions?
